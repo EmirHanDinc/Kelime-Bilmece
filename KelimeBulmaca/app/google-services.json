@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782006268030",
+    "project_id": "template--projeler",
+    "storage_bucket": "template--projeler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782006268030:android:57b6ded614f316439c282f",
+        "android_client_info": {
+          "package_name": "com.dnc.kelimebulmaca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782006268030-mheq5bd8l8anc2e5utnt3h9h1eib54kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDry-3kyLCGJ-JGGQgUpnTgTT5oRQADmRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782006268030-mheq5bd8l8anc2e5utnt3h9h1eib54kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
